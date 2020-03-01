@@ -1,0 +1,9 @@
+C:\git\Study\Project2D\Project2D\bin\Debug\Project2D.exe.config
+C:\git\Study\Project2D\Project2D\bin\Debug\Project2D.exe
+C:\git\Study\Project2D\Project2D\bin\Debug\Project2D.pdb
+C:\git\Study\Project2D\Project2D\obj\Debug\Project2D.csprojAssemblyReference.cache
+C:\git\Study\Project2D\Project2D\obj\Debug\Project2D.exe
+C:\git\Study\Project2D\Project2D\obj\Debug\Project2D.pdb
+C:\git\Study\Project2D\Project2D\bin\Debug\Jong2D.dll
+C:\git\Study\Project2D\Project2D\bin\Debug\Jong2D.pdb
+C:\git\Study\Project2D\Project2D\obj\Debug\Project2D.csproj.CopyComplete
